@@ -1,7 +1,7 @@
 #include <GL/glut.h>
 
 #define SCREEN_WIDTH 680
-#define SCREEN_HEIGHT 480
+#define SCREEN_HEIGHT 48
 
 typedef struct {
     GLfloat x, y;
