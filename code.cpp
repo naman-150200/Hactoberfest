@@ -1,6 +1,6 @@
 #include <GL/glut.h>
 
-#define SCREEN_WIDTH 640
+#define SCREEN_WIDTH 680
 #define SCREEN_HEIGHT 480
 
 typedef struct {
